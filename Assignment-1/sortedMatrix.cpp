@@ -1,4 +1,4 @@
-//Question 4. Search in sorted matrix
+//Question 3. Search in sorted matrix
 
 #include <bits/stdc++.h> 
 using namespace std; 
