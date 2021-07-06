@@ -1,5 +1,5 @@
 // Shivam Kumar Singh -- 22 June
-// Q1. Two People Meet
+// Question 0. Two People Meet
 
 #include <bits/stdc++.h>
 using namespace std;
